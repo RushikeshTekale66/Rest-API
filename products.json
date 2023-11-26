@@ -1,0 +1,37 @@
+[
+{
+    "name":"s20",
+    "price":50000,
+    "company":"Apple"
+},
+{
+    "name":"A20",
+    "price":40000,
+    "company":"MI"
+},
+{
+    "name":"A3",
+    "price":50000,
+    "company":"Moto"
+},
+{
+    "name":"J7",
+    "price":5000,
+    "company":"Apple"
+},
+{
+    "name":"M20",
+    "price":59000,
+    "company":"Vivo"
+},
+{
+    "name":"100",
+    "price":50000,
+    "company":"Mi"
+},
+{
+    "name":"T20",
+    "price":600,
+    "company":"Apple"
+}
+]
